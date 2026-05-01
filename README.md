@@ -11,6 +11,8 @@ Daniel Dworak&emsp;Mateusz Komorkiewicz&emsp;Pawel Skruch&emsp;Jerzy Baranowski
 
 ---
 
+</div>
+
 ### Abstract
 
 > In this paper, we propose a novel approach for camera–radar sensor fusion aimed at 3D object detection in autonomous vehicle perception systems. Our method leverages recent advances in deep learning to take advantage of the complementary strengths of both sensors, thereby enhancing detection performance. Specifically, we extract 2D features from camera images using a state-of-the-art deep neural network and then employ a Cross-Domain Spatial Matching (CDSM) transformation to map these features into 3D space. These transformed features are subsequently fused with radar-derived features through a complementary fusion strategy, producing a unified 3D object representation. To evaluate the effectiveness of the proposed approach, we conduct experiments on the nuScenes dataset and compare our method against both single-sensor baselines and current state-of-the-art fusion techniques. The results demonstrate that our approach outperforms single-sensor solutions and achieves competitive performance relative to other top-level fusion methods..
